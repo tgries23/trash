@@ -1,0 +1,15 @@
+---
+title: "Untitled 1"
+author: "Taylor Gries"
+date: "1/18/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+starwars
+```
+
